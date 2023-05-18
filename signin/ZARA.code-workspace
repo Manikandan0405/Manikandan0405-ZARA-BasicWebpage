@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../zara2.0"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ZARA",
+		"php.validate.executablePath": ""
+	}
+}
